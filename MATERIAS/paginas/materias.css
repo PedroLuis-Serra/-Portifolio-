@@ -1,0 +1,14 @@
+
+body{
+    background-color: cornflowerblue;
+}
+.atividade{
+    background-color: blanchedalmond;
+    width: max-content;
+    height: max-content;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+}

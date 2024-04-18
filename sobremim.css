@@ -1,0 +1,21 @@
+body{
+    width: 100vw;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    background-color: burlywood;
+    overflow: hidden;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    background-color: aqua;
+}
+
+p{
+    width: 500px;
+    margin: auto;
+    font-size: 20px;
+}
